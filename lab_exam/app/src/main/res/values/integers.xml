@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="answer_index_1" />
+    <integer name="answer_index_2" />
+    <integer name="answer_index_5" />
+    <integer name="answer_index_4" />
+    <integer name="answer_index_3" />
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="options_question_1" />
+    <string-array name="options_question_2" />
+    <string-array name="options_question_3" />
+    <string-array name="options_question_4" />
+    <string-array name="options_question_5" />
+</resources>

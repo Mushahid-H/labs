@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">lab_exam</string>
+    <string name="question_1" />
+    <string name="question_2" />
+    <string name="question_3">\n</string>
+    <string name="question_4" />
+    <string name="question_5" />
+</resources>
